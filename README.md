@@ -6,7 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 - 🌱 I’m currently learning **Full-Stack Software Development**
-- 💬 Ask me about **Java, Angular, Android, Flutter**
+- 💬 Ask me about **React, Python, Java, Angular, Android, Flutter**
 - 📫 Reach me at **aapitarch@gmail.com**
 
 
